@@ -1,0 +1,7 @@
+*Ter o node instalado
+
+Iniciar projeto:
+-npx create-react-app projeto
+-cd projeto
+-npm start
+
